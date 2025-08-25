@@ -8,8 +8,6 @@ Media Tags is a lightweight WordPress plugin that enhances media management by a
 
 **Key Features:**
 - Add and manage tags for media files in the WordPress media library.
-- Filter media by tags in the admin media library with clickable tag links.
-- Bulk edit tags for multiple media files at once.
 - Autocomplete tag suggestions for easy tag management.
 - Display tagged media in galleries using the `[media_tag_gallery]` shortcode with customizable options:
   - Filter by single or multiple tags with OR/AND logic.
@@ -20,6 +18,8 @@ Media Tags is a lightweight WordPress plugin that enhances media management by a
 Whether you're organizing a large media library or creating dynamic galleries, Media Tags makes it simple and efficient.
 
 ## Installation
+
+Download the ZIP archive of the latest version of the plugin from the [Neat WP] (https://neatwp.com/c/neat-releases/neat-media-tags/) or from [Releases](https://github.com/neatwp/neat-media-tags/releases).
 
 1. Upload the `neat-media-tags` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
@@ -35,7 +35,6 @@ Alternatively:
 
 1. **Tagging Media**:
    - In the Media Library or when editing a media file, use the "Media Tags" field to add tags (comma-separated).
-   - Use bulk edit in the Media Library to tag multiple files at once.
 
 2. **Filtering in Media Library**:
    - In the Media Library, click on a tag in the "Media Tags" column to filter media by that tag.
