@@ -19,7 +19,7 @@ Whether you're organizing a large media library or creating dynamic galleries, M
 
 ## Installation
 
-Download the ZIP archive of the latest version of the plugin from the [Neat WP] (https://neatwp.com/c/neat-releases/neat-media-tags/) or from [Releases](https://github.com/neatwp/neat-media-tags/releases).
+Download the ZIP archive of the latest version of the plugin from the [Neat WP](https://neatwp.com/c/neat-releases/neat-media-tags/) or from [Releases](https://github.com/neatwp/neat-media-tags/releases).
 
 1. Upload the `neat-media-tags` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
