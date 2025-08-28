@@ -1,0 +1,15 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# Ignore log files
+*.log
+
+# Ignore the plugin zip archive
+*.zip
